@@ -10,6 +10,7 @@ export default class BearTile extends LightningElement {
             bubbles: true,
             detail: this.bear.Id
         });
+        //dispatch
         this.dispatchEvent(selectEvent);
     }
 }

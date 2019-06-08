@@ -9,14 +9,14 @@
             "c/accountSearchResult": [
                 "accountSearchResult/accountSearchResult.js"
             ],
-            "c/errorPanel": [
-                "errorPanel/errorPanel.js"
-            ],
             "c/bearList": [
                 "bearList/bearList.js"
             ],
             "c/bearTile": [
                 "bearTile/bearTile.js"
+            ],
+            "c/errorPanel": [
+                "errorPanel/errorPanel.js"
             ]
         }
     },
