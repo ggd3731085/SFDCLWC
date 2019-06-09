@@ -12,14 +12,14 @@
             "c/bearList": [
                 "bearList/bearList.js"
             ],
+            "c/bearMap": [
+                "bearMap/bearMap.js"
+            ],
             "c/bearTile": [
                 "bearTile/bearTile.js"
             ],
             "c/errorPanel": [
                 "errorPanel/errorPanel.js"
-            ],
-            "c/bearMap": [
-                "bearMap/bearMap.js"
             ]
         }
     },
