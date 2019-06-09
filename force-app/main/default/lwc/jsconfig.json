@@ -17,6 +17,9 @@
             ],
             "c/errorPanel": [
                 "errorPanel/errorPanel.js"
+            ],
+            "c/bearMap": [
+                "bearMap/bearMap.js"
             ]
         }
     },
